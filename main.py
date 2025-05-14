@@ -1,5 +1,3 @@
-
-
 tarefas = []            # Lista principal de tarefas
 historico = []          # Pilha para desfazer tarefas
 fila_execucao = []      # Fila para executar tarefas
