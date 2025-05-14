@@ -1,4 +1,4 @@
-import os # importação da biblioteca os para lidar com arquivos
+
 
 tarefas = []            # Lista principal de tarefas
 historico = []          # Pilha para desfazer tarefas
