@@ -1,0 +1,31 @@
+Atividade – Árvores (Nível Fácil)
+�� Objetivo:
+Compreender os conceitos básicos de árvores e reconhecer seus componentes.
+�� Parte 1: Conceitos Básicos (responda com suas palavras)
+1. 1. O que é uma árvore na estrutura de dados?
+R: é uma estrutura de dados sedimentada em nós e baseada em hierarquia
+2. 2. O que é o nó raiz (ou raiz) de uma árvore?
+R: é o primeiro nó em que todos os outros se originam
+3. 3. O que é um nó folha?
+R: é o último nó em que se encerra a extensão da estrutura de árvore
+4. 4. Uma árvore pode ter várias nós raiz? Justifique.
+R: nao, uma árvore se origina de um único nó raiz
+5. 5. Marque a alternativa correta:
+  Em uma árvore binária, cada nó pode ter no máximo:
+  a) 1 filho
+  b) 2 filhos
+  c) 3 filhos
+  d) Nenhum filho
+R : 2 filhos
+��️ Parte 2: Prática Simples
+Observe os números a seguir e insira-os em uma árvore binária de busca (BST), seguindo a ordem:
+[10, 5, 15]
+�� Desenhe a árvore formada (você pode fazer assim, com texto mesmo):
+    	  10
+      /  \
+    5   15
+�� Parte 3: Completando frases
+6. 1. O nó principal da árvore é chamado de ____nó raiz______.
+7. 2. Um nó que não tem nenhum filho é chamado de ____nó folha______.
+8. 3. Em uma árvore binária, o filho menor vai para o lado __esquerdo________.
+9. 4. O nó 10 tem dois ___graus_______: o 5 e o 15.
